@@ -1,0 +1,5 @@
+{
+    "SECRET_KEY": "secret",
+    "db": "mongodb://localhost:27017/Library",
+    "PORT": "3000"
+}

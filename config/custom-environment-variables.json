@@ -1,0 +1,5 @@
+{
+    "SECRET_KEY": "secretPrivate_key",
+    "db": "privite_db_key",
+    "PORT": "3000"
+}
